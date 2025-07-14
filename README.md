@@ -1,4 +1,4 @@
-This project solves one of the biggest problems in Intelligent Transportation System, that is "Traffic Light Optimization". The algorithm used here is genatic algorithm
+This project solves one of the biggest problems in Intelligent Transportation System, that is "Traffic Light Optimization". The algorithm used here is genatic algorithm in the python language
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
